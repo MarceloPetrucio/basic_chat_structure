@@ -8,7 +8,7 @@ Esse projeto possui fins educativos.
 
 Essa é uma estrutura básica de um chat em Flutter.
 
-## 😉💻 Preview
+## 👨‍💻 Preview
 
 <img src="https://github.com/MarceloPetrucio/flutter_basic_chat_structure/blob/master/.github/preview.png" width="300">
 
