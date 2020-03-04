@@ -10,7 +10,7 @@ Essa é uma estrutura básica de um chat em Flutter.
 
 ## 👨🏻‍💻 Preview
 
-<img src="https://github.com/MarceloPetrucio/flutter_basic_chat_structure/blob/master/.github/preview.png" width="300">
+<img src="https://github.com/MarceloPetrucio/flutter_basic_chat_structure/blob/master/.github/preview.gif" width="300">
 
 
 ## 💻 Tecnologias
